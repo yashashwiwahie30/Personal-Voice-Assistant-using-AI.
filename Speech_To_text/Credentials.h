@@ -3,8 +3,8 @@
 
 
 // Your WiFi Credentials 
-const char *ssid = "iPhone 11";       // WiFi SSID Name
-const char *password = "Xsgd703*";// WiFi Password ( Keep it blank if your WiFi router is open )
+const char *ssid = "****";       // WiFi SSID Name
+const char *password = "*****";// WiFi Password ( Keep it blank if your WiFi router is open )
 
 
 // Parameters of Google Speech to Text API
